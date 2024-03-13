@@ -1,6 +1,6 @@
 <!-- Keep a Changelog guide -> https://keepachangelog.com -->
 
-# code-idea-plugin Changelog
+# codelugin Changelog
 
 ## [Unreleased]12333
 ### Added
